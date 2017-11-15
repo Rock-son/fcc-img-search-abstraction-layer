@@ -1,0 +1,40 @@
+        .container {
+            margin: 2% auto;
+            width: 60%;
+            min-height: 100%;
+            color: #333;
+            font-family: 'Roboto', Colibri, sans-serif;
+        }
+        code {
+            color: red;
+            background-color: #fff53f;
+            padding: 2px 4px;
+            border-radius: 3px;
+        }
+        ul {
+            margin-left: 2%;
+        }
+        h3 {
+            margin-left: 1%;
+        }
+        span {
+            font-weight: 700;
+        }
+        .break {
+            margin-left: 3%;
+        }
+        code span {
+            font-weight: 300;
+            background-color: #73a4f4;
+            padding: 2px;
+            text-shadow: 1px 1px 2px white; 
+        }
+        a, a:active, a:visited {
+            text-decoration: none;
+            color: red;
+        }
+        a:hover {
+            text-decoration: underline;
+            -moz-text-decoration-color: #bbb;
+            text-decoration-color: #bbb; 
+        }
